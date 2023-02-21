@@ -6,6 +6,7 @@ I'm 15, studying at the IT Academy "Step", Junior Software Engineer, learning C+
 * ✉️  You can contact me at [altnntx@gmail.com](mailto:altnntx@gmail.com) 
 * 🧠  I'm learning C++ 
 *  ⚡  Believe in yourself you can do it!
+<img alt="Coincap (Price USD)" src="https://img.shields.io/coincap/price-usd/bitcoin?style=for-the-badge"> <img alt="Coincap (Price USD)" src="https://img.shields.io/coincap/price-usd/xrp">
 
 <a href="https://www.github.com/m1lean" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/m1lean?logo=github&style=for-the-badge&color=0891b2&labelColor=22272e" /></a><a href="https://www.twitter.com/ittsganok" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/ittsganok?logo=twitter&style=for-the-badge&color=0891b2&labelColor=22272e" /></a>
 ## Skills  
