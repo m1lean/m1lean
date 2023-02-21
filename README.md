@@ -1,4 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alexander Tsganok =========================================================================================================================================  Junior Software Engineer ------------------------  I'm 15, studying at the IT academyStep, Junior Software Engineer, learning C++, Python, Java  * 🌍  I'm based in Ukraine * ✉️  You can contact me at [altnntx@gmail.com](mailto:altnntx@gmail.com) * 🧠  I'm learning C++ * ⚡  Believe in yourself you can do it!
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Alexander Tsganok 
+Junior Software Engineer  
+
+I'm 15, studying at the IT academyStep, Junior Software Engineer, learning C++, Python, Java  
+* 🌍  I'm based in Ukraine 
+* ✉️  You can contact me at [altnntx@gmail.com](mailto:altnntx@gmail.com) 
+* 🧠  I'm learning C++ 
+*  ⚡  Believe in yourself you can do it!
 
 <a href="https://www.github.com/m1lean" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/m1lean?logo=github&style=for-the-badge&color=0891b2&labelColor=22272e" /></a><a href="https://www.twitter.com/ittsganok" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/ittsganok?logo=twitter&style=for-the-badge&color=0891b2&labelColor=22272e" /></a>
 ### Skills  
