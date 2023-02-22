@@ -1,10 +1,10 @@
 Hi 👋 My name is Alexander Tsganok 
 ==================================
 Junior Software Engineer 
-------------------------  
+------------------------
 
 I'm 15, studying at the IT Academy "Step", Junior Software Engineer, learning C++, Python, Java  
-
+-----------------------------------------------------------------------------------------------
 * 🌍  I'm based in Ukraine 
 * ✉️  You can contact me at [altnntx@gmail.com](mailto:altnntx@gmail.com) 
 * 🧠  I'm learning C++ 
