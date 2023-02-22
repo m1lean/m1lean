@@ -1,4 +1,5 @@
 # 💫 About Me:
+
 🌱 I’m currently learning C++ <br>
 📫 How to reach me altnntx@gmail.com
 
@@ -12,6 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=m1lean&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=m1lean&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=m1lean&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<a href="http://www.github.com/m1lean"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=m1lean&bg_color=22272e&color=ffffff&line=ffffff&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=m1lean&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
@@ -21,5 +23,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
