@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 🌱 I’m currently learning C++ <br>
-📫 How to reach me altnntx@gmail.com
+📫 How to reach me altnntx@gmail.co
 
 
 ## 🌐 Socials:
