@@ -1,10 +1,10 @@
 # 💫 About Me:
 
-🌱 I’m currently learning C++ <br>
-📫 How to reach me altnntx@gmail.com
-🎧 Enjoying the music
+🌱 I’m currently learning C++  <br>
+📫 How to reach me altnntx@gmail.com <br>
+🎧 Enjoying the music <br>
 
-## 🌐 Socials:
+## 🌎 Socials:
 <div align="left">
   <a href="https://twitter.com/ittsganok" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="55" height="45" alt="twitter logo"  />
