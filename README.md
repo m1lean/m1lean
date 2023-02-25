@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning C++ <br>
 📫 How to reach me altnntx@gmail.com
-
+🎧 Enjoying the music
 
 ## 🌐 Socials:
 <div align="left">
