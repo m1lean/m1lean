@@ -2,22 +2,22 @@
 const m1lean = {
         pronouns: "he" | "his",
         age: "16",
-        code: [C++, HTML, CSS, C#, Python, JavaScript, Arduino],
-        tools: [React, Node, Storybook, Docker],
+        code: [C++, HTML, CSS, Python, JavaScript, Arduino]
+        tools: [React, Node, Storybook, Docker]
         const setup = {
-            Notebook: [MacBook M1 2020],
-            Display: [Xiaomi Mi Desktop Monitor 27],
+            Notebook: [MacBook M1 2020]
+            Display: [Xiaomi Mi Desktop Monitor 27]
         }
         const devices = {
-            Mouse: [Apple Magic Mouse 2021],
+            Mouse: [Apple Magic Mouse 2021]
             Keyboards {
-                    First: [Epomaker EK68 Custom with Linear Flamingo Switches],
-                    Second: [Keychron K2 Custom with Akko Yellow Cream Switches],
-                    Third: [RedDragon FIZZ K-617 Custom with Dustpruff Blue Switches],
+                    First: [Epomaker EK68 Custom with Linear Flamingo Switches]
+                    Second: [Keychron K2 Custom with Akko Yellow Cream Switches]
+                    Third: [RedDragon FIZZ K-617 Custom with Dustpruff Blue Switches]
             }
-            Microphone: [HyperX Quadcast],
-            Headset: [Logitech G PRO X Gaming Headset Black],
-            Headphones: [Apple AirPods (2nd Generation)],
+            Microphone: [HyperX Quadcast]
+            Headset: [Logitech G PRO X Gaming Headset Black]
+            Headphones: [Apple AirPods (2nd Generation)]
         }
         techCommunities: {
             coorganizer: "Alexander",
