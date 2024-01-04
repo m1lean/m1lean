@@ -27,8 +27,16 @@ const m1lean = {
         challenge: "Study at the Step Academy and become a Developer"
 }
 ```
-## Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pMHkfswxhr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m1lean_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-tsganok-03b830296/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@m1leannn) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ittsganok) 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/m1lean"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="m1lean" /></a></p><br><br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/https://dev.to/m1lean" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/m1lean" height="30" width="40" /></a>
+<a href="https://twitter.com/@ittsganok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ittsganok" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/alexander-tsganok-03b830296/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexander-tsganok-03b830296/" height="30" width="40" /></a>
+<a href="https://instagram.com/m1lean_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m1lean_" height="30" width="40" /></a>
+</p>
 
 ### Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 500px;"/>
