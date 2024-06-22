@@ -37,7 +37,7 @@ const setup = {
 
 <h2 align="left"> 🌍Connect with me:</h2>
 <p align="left">
-<a href="https://dev.to/https://dev.to/m1lean" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/m1lean" height="30" width="40" /></a>
+<a href="https://dev.to/m1lean" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/m1lean" height="30" width="40" /></a>
 <a href="https://twitter.com/@ittsganok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ittsganok" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alexander-tsganok-03b830296/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexander-tsganok-03b830296/" height="30" width="40" /></a>
 <a href="https://instagram.com/m1lean_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m1lean_" height="30" width="40" /></a>
