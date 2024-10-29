@@ -12,16 +12,13 @@ const setup = {
             Keyboards {
                     First: [Epomaker EK68 Custom with Linear Flamingo Switches]
                     Second: [Keychron K2 Custom with Akko Yellow Cream Switches]
-                    Third: [RedDragon FIZZ K-617 Custom with Dustpruff Blue Switches]
             }
-            Microphone: [HyperX Quadcast]
             Headset: [Logitech G PRO X Gaming Headset Black]
-            Headphones: [Apple AirPods (2nd Generation)]
             Camera: [GoPro 11 Black]
         }
         techCommunities: {
             coorganizer: "Alexander",
-                speaker: "English, Ukrainian, Russian",
+                speaker: "English, Ukrainian, Russian, Bulgarian",
                     position: "Junior Software Engineer",
         }
         challenge: "Study at the Step Academy and become a Developer"
