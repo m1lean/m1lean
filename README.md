@@ -20,8 +20,6 @@ const setup = {
             coorganizer: "Alexander",
                 speaker: "English, Ukrainian, Russian, Bulgarian",
                     position: "Junior Software Engineer",
-        }
-        challenge: "Study at the Step Academy and become a Developer"
 }
 ```
 
