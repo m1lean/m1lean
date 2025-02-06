@@ -4,39 +4,81 @@ const m1lean = {
         age: "16",
 
 const setup = {
-            Notebook: [MacBook M1 2020]
-            Display: [Xiaomi Mi Desktop Monitor 27]
+        const PC = {
+            CPU:  AMD Ryzen 7 5800X 3.8(4.7)GHz (Overclocked to 4.4 GHz)
+            GPU: Asus GeForce RTX 4070 ROG Strix OC 12GB
+            RAM: Adata 32GB 3600Mhz XPG Spectrix D35G RGB
+            Motherboard: Asus TUF GAMING B550M-PLUS II WIFI
+            Case: Aerocool Dryft Mini-BK-v2
+            PSU: Gigabyte P850GM 850W
+            SSD: Crucial P3 Plus 3D NAND 2TB M.2
+            Cooling: Be Quiet! Pure Loop 2 280mm
+        }
+            Laptop: [MacBook M1 2020]
+            Display: [Xiaomi Mi Desktop Monitor '27]
+            Display: [Samsung Odyssey G3 '27 (LS24DG300EIXCI)]
+
         }
         const devices = {
             Mouse: [Apple Magic Mouse 2021]
+            Mouse: [HATOR Stellar Pro Wireless]
             Keyboards {
                     First: [Epomaker EK68 Custom with Linear Flamingo Switches]
-                    Second: [Keychron K2 Custom with Akko Yellow Cream Switches]
+                    Second: [RedDragon from China on Clicky Dustproof Blue Switches]
             }
             Headset: [Logitech G PRO X Gaming Headset Black]
+            Рeadphones: [Marshall Major V]
             Camera: [GoPro 11 Black]
         }
         techCommunities: {
             coorganizer: "Alexander",
-                speaker: "English, Ukrainian, Russian, Bulgarian",
-                    position: "Junior Software Engineer",
+                speaker: "English, Ukrainian, Russian",
+                    position: "Beginner Junior Software Developer",
 }
 ```
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+</div>
 
-[![wakatime](https://wakatime.com/badge/user/018cd4bf-3c83-4071-b9a8-76dd50a33621.svg)](https://wakatime.com/@018cd4bf-3c83-4071-b9a8-76dd50a33621)
 ###
 
+<div align="center">
+  <img height="300" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"  />
+</div>
 
-<h2 align="left"> 🌍Connect with me:</h2>
-<p align="left">
-<a href="https://dev.to/m1lean" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/m1lean" height="30" width="40" /></a>
-<a href="https://twitter.com/@ittsganok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ittsganok" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alexander-tsganok-03b830296/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexander-tsganok-03b830296/" height="30" width="40" /></a>
-<a href="https://instagram.com/m1lean_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m1lean_" height="30" width="40" /></a>
+###
+
+<div align="center">
+  <img height="305" src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/m1lean/count.svg?"  />
+</div>
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m1lean&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=highcontrast&hide_border=true&order=2" height="350" alt="languages graph"  />
+</div>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31vh2gtmuvipwfiedwx72p4pj4pi)
+
 </p>
 
-<h2 align="left">🥤Support:</h2>
-<p><a href="https://www.buymeacoffee.com/m1lean"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="m1lean" /></a></p><br><br>
+<h2 align="center">🥤Support:</h2>
+<p><a href="https://www.buymeacoffee.com/m1lean"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="m1lean" /></a></p><br><br>
