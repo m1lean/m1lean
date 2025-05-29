@@ -32,7 +32,7 @@ const setup = {
         }
         techCommunities: {
             coorganizer: "Alexander",
-                speaker: "English, Ukrainian, Russian",
+                speaker: "English, Ukrainian, Russian, Romanian",
                     position: "Beginner Junior Software Developer",
 }
 ```
