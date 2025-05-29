@@ -27,7 +27,7 @@ const setup = {
                     Second: [RedDragon from China on Clicky Dustproof Blue Switches]
             }
             Headset: [Logitech G PRO X Gaming Headset Black]
-            Рeadphones: [Marshall Major V]
+            Headphones: [Marshall Major V]
             Camera: [GoPro 11 Black]
         }
         techCommunities: {
