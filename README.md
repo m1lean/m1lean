@@ -1,4 +1,4 @@
-```ruby
+```tsx
 const m1lean = {
         pronouns: "he" | "his",
         age: "17",
@@ -21,7 +21,7 @@ const setup = {
         }
         const devices = {
             Mouse: [Apple Magic Mouse 2021]
-            Mouse: [HATOR Stellar Pro Wireless]
+            Mouse: [Ajazz AJ159Pro 8k Ghz Wireless]
             Keyboards {
                     First: [Epomaker EK68 Custom with Linear Flamingo Switches]
                     Second: [RedDragon from China on Clicky Dustproof Blue Switches]
