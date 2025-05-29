@@ -25,7 +25,8 @@ const setup = {
             Keyboards {
                     First: [Epomaker EK68 Custom with Linear Flamingo Switches]
                     Second: [RedDragon from China on Clicky Dustproof Blue Switches]
-            }
+                    Third: [Ajazz AK820 on Vanila Dustproof White Custom Switches]
+        }
             Headset: [Logitech G PRO X Gaming Headset Black]
             Headphones: [Marshall Major V]
             Camera: [GoPro 11 Black]
