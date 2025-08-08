@@ -28,8 +28,9 @@ const m1lean = {
     ],
     Keyboards: {
       First: "Epomaker EK68 Custom with Linear Flamingo Switches",
-      Second: "RedDragon (China) with Clicky Dustproof Blue Switches",
+      Second: "Ajazz X NACODEX Alux 68 Plus Magnetic Yellow Switches",
       Third: "Ajazz AK820 with Vanilla Dustproof White Custom Switches"
+
     },
     Headset: "Logitech G PRO X Gaming Headset Black",
     Headphones: "Marshall Major V",
@@ -73,23 +74,11 @@ const m1lean = {
   <img height="305" src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/m1lean/count.svg?" />
-</div>
-
-<br/>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m1lean&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=highcontrast&hide_border=true&order=2" height="350" alt="languages graph" />
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vh2gtmuvipwfiedwx72p4pj4pi" alt="Spotify recently played" />
-</div>
 
 ---
 
