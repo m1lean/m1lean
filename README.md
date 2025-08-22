@@ -32,16 +32,9 @@ const m1lean = {
       Third: "Ajazz AK820 with Vanilla Dustproof White Custom Switches"
 
     },
-    Headset: "Logitech G PRO X Gaming Headset Black",
+    Headset: "HyperX Cloud III Wired",
     Headphones: "Marshall Major V",
-    Camera: "GoPro 11 Black"
   },
-
-  techCommunities: {
-    coorganizer: "Alexander",
-    speaker: ["English", "Ukrainian", "Russian", "Romanian"],
-    position: "Beginner Junior Software Developer"
-  }
 };
 
 ```
