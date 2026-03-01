@@ -5,7 +5,7 @@ const m1lean = {
 
   setup: {
     PC: {
-      CPU: "AMD Ryzen 7 5800X 3.8 (OC 4.4) GHz",
+      CPU: "AMD Ryzen 7 5800X 4.7GHz",
       GPU: "Asus GeForce RTX 4070 ROG Strix OC 12GB",
       RAM: "Adata 32GB 3600MHz XPG Spectrix D35G RGB",
       Motherboard: "Asus TUF GAMING B550M-PLUS II WIFI",
@@ -24,7 +24,7 @@ const m1lean = {
   devices: {
     Mice: [
       "Apple Magic Mouse 2021",
-      "Ajazz AJ159Pro 8K Hz Wireless"
+      "Ajazz AJ159Pro 8kHz Wireless"
     ],
     Keyboards: {
       First: "Epomaker EK68 Custom with Linear Flamingo Switches",
@@ -46,8 +46,6 @@ const m1lean = {
   <img width="10" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="30" alt="bootstrap logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="30" alt="c logo"  />
-  <img width="10" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="30" alt="cplusplus logo"  />
   <img width="10" />
   <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="30" alt="csharp logo"  />
@@ -60,8 +58,6 @@ const m1lean = {
   <img width="10" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
-  <img width="10" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
   <img width="10" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
@@ -71,8 +67,6 @@ const m1lean = {
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
   <img width="10" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" height="30" alt="redis logo"  />
   <img width="10" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
   <img width="10" />
@@ -92,11 +86,6 @@ const m1lean = {
 <div align="center">
   <img height="305" src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m1lean&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=highcontrast&hide_border=true&order=2" height="350" alt="languages graph" />
-</div>
-
 <br/>
 
 ---
