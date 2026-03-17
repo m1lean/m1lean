@@ -1,7 +1,7 @@
 ```kotlin
 const m1lean = {
   pronouns: "he/his",
-  age: 17,
+  age: 18,
 
   setup: {
     PC: {
