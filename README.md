@@ -14,7 +14,7 @@ const m1lean = {
       SSD: "Crucial P3 Plus 3D NAND 2TB M.2",
       Cooling: "Be Quiet! Pure Loop 2 280mm"
     },
-    Laptop: "MacBook Pro 16 M5 24/1TB 2026",
+    Laptop: "MacBook Pro 16 M5 Pro 24/1TB 2026",
     Displays: [
       "Xiaomi Mi Desktop Monitor 27'",
       "Samsung Odyssey G3 27' (LS24DG300EIXCI)",
