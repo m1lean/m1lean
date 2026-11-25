@@ -17,7 +17,7 @@ const m1lean = {
     Laptop: "MacBook Pro 16 M5 24/1TB 2026",
     Displays: [
       "Xiaomi Mi Desktop Monitor 27'",
-      "Samsung Odyssey G3 27' (LS24DG300EIXCI)"
+      "Samsung Odyssey G3 27' (LS24DG300EIXCI)",
       "MSI 27" MAG 272F X24 Black"
     ]
   },
@@ -25,7 +25,7 @@ const m1lean = {
   devices: {
     Mice: [
       "Apple Magic Mouse 2021",
-      "Ajazz AJ179P"
+      "Ajazz AJ179P",
       "Logitech MX Master 4 for Mac Performance White Silver"
     ],
     Keyboards: {
@@ -38,7 +38,7 @@ const m1lean = {
 
     },
     Headset: "HyperX Cloud III Wired",
-    Headphones: "Marshall Major V",
+    Headphones: "Marshall Major V"
   },
 };
 
