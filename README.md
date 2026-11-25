@@ -30,7 +30,7 @@ const m1lean = {
     ],
     Keyboards: {
       "Epomaker EK68 Custom with Linear Flamingo Switches",
-      "Ajazz X NACODEX Alux 68 Plus Magnetic Yellow Switches",
+      "Keebox Rule60 V3 with TTC Wild",
       "Ajazz AK820 with Aqua Clicky Switches",
       "Custom REDRAGON K616 Fizz Pro with Aurum Mocca Tactile Silent",
       "Aula F75 with Akko V3 Creamy Black Pro",
