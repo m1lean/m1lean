@@ -1,7 +1,7 @@
 ```kotlin
 const m1lean = {
   pronouns: "he/his",
-  age: 18,
+  age: 19,
 
   setup: {
     PC: {
@@ -14,22 +14,27 @@ const m1lean = {
       SSD: "Crucial P3 Plus 3D NAND 2TB M.2",
       Cooling: "Be Quiet! Pure Loop 2 280mm"
     },
-    Laptop: "MacBook M1 2020",
+    Laptop: "MacBook Pro 16 M5 24/1TB 2026",
     Displays: [
       "Xiaomi Mi Desktop Monitor 27'",
       "Samsung Odyssey G3 27' (LS24DG300EIXCI)"
+      "MSI 27" MAG 272F X24 Black"
     ]
   },
 
   devices: {
     Mice: [
       "Apple Magic Mouse 2021",
-      "Ajazz AJ159Pro 8kHz Wireless"
+      "Ajazz AJ179P"
+      "Logitech MX Master 4 for Mac Performance White Silver"
     ],
     Keyboards: {
-      First: "Epomaker EK68 Custom with Linear Flamingo Switches",
-      Second: "Ajazz X NACODEX Alux 68 Plus Magnetic Yellow Switches",
-      Third: "Ajazz AK820 with Vanilla Dustproof White Custom Switches"
+      "Epomaker EK68 Custom with Linear Flamingo Switches",
+      "Ajazz X NACODEX Alux 68 Plus Magnetic Yellow Switches",
+      "Ajazz AK820 with Aqua Clicky Switches",
+      "Custom REDRAGON K616 Fizz Pro with Aurum Mocca Tactile Silent",
+      "Aula F75 with Akko V3 Creamy Black Pro",
+      "Logitech Pop Icon Keys"
 
     },
     Headset: "HyperX Cloud III Wired",
